@@ -77,4 +77,5 @@ Some notebooks use local MySQL or SQLite databases and may require the correspon
 ---
  
 **Christina Tawfiq**
+
 *SQL Practice & Data Analysis*
